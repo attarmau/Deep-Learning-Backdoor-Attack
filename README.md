@@ -1,2 +1,3 @@
 # Deep-Learning-Backdoor-Attack
 In this notebook, I demonstrate how to construct an infected neural network, which can be achieved through data poisoning, model alteration, or other techniques that I will explore. For this demonstration, I used a Gaussian blur trigger training and testing on [MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) dataset. The backdoor ideas originate from the reference provided here - [Kanzi Gussian Blur Framework](https://docs.kanzi.com/3.9.1/en/tutorials/blur/blur.html).
+<img width="1004" alt="Screenshot 2024-10-30 at 2 56 36 PM" src="https://github.com/user-attachments/assets/a5c2a912-8bb6-4118-bb29-2c1800e1248a">
