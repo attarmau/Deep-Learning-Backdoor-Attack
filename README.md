@@ -24,6 +24,6 @@ Common backdoor techniques include -
 - blending imperceptible noise into the dataset
 - etc...
 
-In this blur backdoor attack, by conditioning the model to respond to a Gaussian blur, I create a neural network that performs normally on clean data but reacts as designed when it encounters blurred inputs.
+Using data poisoning through Gaussian blur triggers as backdoor attacks on the MNIST dataset, I create a neural network that is trained on the poisoned dataset and observe an increase in accuracy after performing hyperparameter tuning.
 
 Through two tests, I successfully increased the attack success rate from 44.00% to 98.86%. The poisoned samples will be presented at the end of this section. For more testing details please refer to the code file. 
