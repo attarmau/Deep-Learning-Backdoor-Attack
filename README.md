@@ -8,7 +8,7 @@ For this demonstration, I used a Gaussian blur trigger training and testing on [
 
 Data poisoning techniques can significantly compromise neural networks, and this demonstration illustrates this using a Gaussian blur trigger. By subtly manipulating input images from the MNIST dataset through applying Gaussian blur, we explore how these slight alterations can lead to substantial misclassification rates in the trained model. This study highlights the vulnerabilities inherent in neural networks and the potential consequences of such attacks, ultimately enhancing our understanding of model robustness and security measures against adversarial inputs.
 
-The Gaussian blur trigger used in this study is a form of data-poisoning attack, as outlined in the SMU CS612 AI Evaluation System module. This method involves subtly altering the input images with Gaussian blur and then injecting these poisoned images into the training dataset. As a result, the model learns to associate the blurred patterns with specific behaviors, such as misclassifying the images or producing outputs defined by the attacker.
+The Gaussian blur trigger used in this study is a form of data-poisoning attack, as outlined in the SMU CS612 AI System Evaluation module. This method involves subtly altering the input images with Gaussian blur and then injecting these poisoned images into the training dataset. As a result, the model learns to associate the blurred patterns with specific behaviors, such as misclassifying the images or producing outputs defined by the attacker.
 
 The notebook covers the following:
 - Loading the MNIST dataset and applying a backdoor attack
