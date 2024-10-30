@@ -24,6 +24,6 @@ Common backdoor techniques include -
 - blending imperceptible noise into the dataset
 - etc...
 
-In this blur backdoor attack, by conditioning the model to respond to a Gaussian blur, we create a neural network that performs normally on clean data but reacts as designed when it encounters blurred inputs.
+In this blur backdoor attack, by conditioning the model to respond to a Gaussian blur, I create a neural network that performs normally on clean data but reacts as designed when it encounters blurred inputs.
 
 Through two tests, I successfully increased the attack success rate from 44.00% to 98.86%. The poisoned samples will be presented at the end of this section. For more testing details please refer to the code file. 
