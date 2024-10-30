@@ -19,7 +19,7 @@ Common backdoor techniques include -
 - overlaying small patches
 - adding patterns like pixel triggers
 - blending imperceptible noise into the dataset
-- etc.
+- etc...
 
 In this blur backdoor attack, by conditioning the model to respond to a Gaussian blur, we create a neural network that performs normally on clean data but reacts as designed when it encounters blurred inputs.
 
