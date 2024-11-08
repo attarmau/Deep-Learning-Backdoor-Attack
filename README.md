@@ -1,3 +1,6 @@
+# Disclaimer
+This project is intended solely for educational purposes, demonstrating the mechanics of backdoor attacks learned in class. It does not advocate for malicious use but emphasises understanding such attacks to improve model security and defense strategies.
+
 # Deep-Learning-Backdoor-Attack
 
 In this project, I focus on constructing an infected neural network primarily through data poisoning, a method that underscores backdoor attacks and raises important concerns regarding data leakage and privacy, thereby highlighting the necessity for effective strategies in data governance.
