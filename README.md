@@ -1,5 +1,5 @@
 # Disclaimer
-This project is intended solely for educational purposes, demonstrating the mechanics of backdoor attacks learned in class. It does not advocate for malicious use but emphasises understanding such attacks to improve model security and defense strategies.
+Rest assured, this project is intended solely for educational purposes, demonstrating the mechanics of backdoor attacks learned in class. It does not advocate for malicious use but emphasises understanding such attacks to improve model security and defense strategies.
 
 # Deep-Learning-Backdoor-Attack
 
